@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Akshay
 
-<!--
-**akkie2231/akkie2231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run ClickMaking — a digital marketing agency in Ahmedabad, Gujarat, working on SEO, PPC, social media, content marketing and website design for growing businesses.
 
-Here are some ideas to get you started:
+Website: https://www.clickmaking.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Free tools
+
+- Excel Shortcuts — a free Excel shortcuts reference: https://www.clickmaking.com/free-tools/excel-shortcuts
+- Digital Marketing MCQ — a free digital marketing quiz: https://www.clickmaking.com/free-tools/digital-marketing-mcq
+
+## Writing
+
+- ClickMaking Blog: https://www.clickmaking.com/blog
